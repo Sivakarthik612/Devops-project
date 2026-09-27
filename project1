@@ -1,0 +1,11 @@
+devops-project/
+├── pom.xml
+├── src/
+│   ├── main/
+│   │   └── java/
+│   │       └── com/example/App.java
+│   └── test/
+│       └── java/
+│           └── com/example/AppTest.java
+├── Dockerfile
+└── README.md
