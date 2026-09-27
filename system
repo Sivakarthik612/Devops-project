@@ -1,0 +1,4 @@
+cd /project
+mkdir -p java-devops-project/src/main/java/com/example
+mkdir -p java-devops-project/src/test/java/com/example
+cd java-devops-project
